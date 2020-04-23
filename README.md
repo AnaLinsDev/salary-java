@@ -1,6 +1,6 @@
 # Lesson-Java-1
 
-<h1>Programa feito durante as aulas de POO</h1>
+<h1>Programa feito como exercicio da aula de POO, no <a href="https://www.udemy.com/course/java-curso-completo/">curso de JAVA - Udemy<a></h1>
 
 <h2>Proposta:</h2>
 
