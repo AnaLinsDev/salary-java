@@ -17,10 +17,10 @@ public class Program {
 		System.out.print("Name: ");	
 		employee.name = sc.nextLine();
 		System.out.print("Gross salary: ");	
-		employee.grosssalary = sc.nextDouble();
+		employee.grossSalary = sc.nextDouble();
 		System.out.print("Tax: ");	
 		employee.tax = sc.nextInt();
-		employee.NetSalary();
+		employee.netSalary();
 		
 		System.out.println("Employee: " + employee);
 		
