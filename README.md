@@ -1,5 +1,3 @@
-# lesson-1-java
-
 <h1>Exercício 1<a></h1>
 
 <h2>Proposta:</h2>
