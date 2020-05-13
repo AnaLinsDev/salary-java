@@ -15,11 +15,11 @@ public class Program {
 		Employee employee = new Employee();
 
 		System.out.print("Name: ");	
-		employee.name = sc.nextLine();
+		employee.setName(sc.nextLine());
 		System.out.print("Gross salary: ");	
-		employee.grossSalary = sc.nextDouble();
+		employee.setGrossSalary(sc.nextDouble());
 		System.out.print("Tax: ");	
-		employee.tax = sc.nextInt();
+		employee.setTax(sc.nextInt());
 		employee.netSalary();
 		
 		System.out.println("Employee: " + employee);
@@ -28,9 +28,7 @@ public class Program {
 		employee.IncreaseSalary(sc.nextInt());
 		
 		System.out.println("Updated data: " + employee);
-		
-		
-		
+	
 		sc.close();
 
 	}
